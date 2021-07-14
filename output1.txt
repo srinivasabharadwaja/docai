@@ -1,0 +1,38 @@
+SpringML
+INVOICE
+# 12340987
+From:
+Kumar Sharma
+Bill To:
+Date:
+Jul 11, 2019
+Samantha Adele
+Payment Terms:
+qwerty
+Due Date:
+Jul 15, 2019
+Balance Due:
+$1,909.22
+Item
+Quantity
+Rate
+Amount
+Predictive Sales Forecasting
+1
+$5,421.98
+$5,421.98
+Employee Management ChatBot
+1
+$1,286.00
+$1,286.00
+Subtotal:
+$6,707.98
+Таx (3%):
+$ 201.24
+Total:
+$6,909.22
+Amount Paid:
+$5,000.00
+Terms:
+Paid by Cash. Cancellation before 7 days.
+SpringMLINVOICE#12340987From:KumarSharmaBillTo:Date:Jul11,2019SamanthaAdelePaymentTerms:qwertyDueDate:Jul15,2019BalanceDue:$1,909.22ItemQuantityRateAmountPredictiveSalesForecasting1$5,421.98$5,421.98EmployeeManagementChatBot1$1,286.00$1,286.00Subtotal:$6,707.98Таx(3%):$201.24Total:$6,909.22AmountPaid:$5,000.00Terms:PaidbyCash.Cancellationbefore7days.
