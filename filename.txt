@@ -1,1 +1,0 @@
-{'Total:': '$6,909.22', 'Tax (3%):': '$201.24', 'Subtotal:': '$6,707.98', 'Date:': 'Jul 11, 2019', 'Amount Paid:': '$5,000.00', 'Due Date:': 'Jul 15, 2019', 'Payment Terms:': 'qwerty', 'Balance Due:': '$1,909.22', 'From:': '', 'Bill To:': 'Samantha Adele', 'Terms:': 'Paid by Cash. Cancellation before 7 days.', 'Kumar Sharma': '# 12340987'}
